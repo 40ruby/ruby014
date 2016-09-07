@@ -1,0 +1,3 @@
+def CheckIPAddress(ip)
+
+end
